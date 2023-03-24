@@ -1,1 +1,2 @@
-print("oi mundo!\n")
+print("oi mundo!")
+print()
